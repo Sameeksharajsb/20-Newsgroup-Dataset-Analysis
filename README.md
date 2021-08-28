@@ -49,6 +49,8 @@ The data source: http://qwone.com/~jason/20Newsgroups/
 **4.** Comparison between different document representations
 
 * Document clustering
+![Clustering-technical](https://user-images.githubusercontent.com/61637539/131232638-bb602d43-aeb1-4d7e-b864-aab74de4d465.PNG)
+
 
 ## Important Files
 
