@@ -52,9 +52,9 @@ The data source: http://qwone.com/~jason/20Newsgroups/
 
 ## Important Files
 
-<code>FinalProject_codes1.ipynb</code> - Vector Representations
-<code>FinalProject_codes2.ipynb</code> - Topic Modeling
-<code>Text Classification methods in NLP using Deep Learning.ipynb</code> - Convoluted Neural Network 
+<code>FinalProject_codes1.ipynb</code> - Vector Representations  
+<code>FinalProject_codes2.ipynb</code> - Topic Modeling  
+<code>Text Classification methods in NLP using Deep Learning.ipynb</code> - Convoluted Neural Network   
 
 <code>Topic_modeling_and_clustering_Report.pdf</code> - PDF report that decribes the appreaches used for document representation and classsification in python and compares 
 the different approaches along with their visual representations using t-SNE
