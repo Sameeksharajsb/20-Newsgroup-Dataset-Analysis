@@ -40,11 +40,15 @@ The data source: http://qwone.com/~jason/20Newsgroups/
 
 * Train a LDA model with given topic number
 * Visualize different topics
+![Topic Modeling](https://user-images.githubusercontent.com/61637539/131232688-445100ef-9a5c-4197-a731-b7d1e155cba7.PNG)
+
 
 **3.** Vector representation of documents
 
 * Train a Doc2Vec model
 * Visualize word embedding and document embedding
+![Word2Vec-technical](https://user-images.githubusercontent.com/61637539/131232698-b849118b-c3bb-429f-847d-f716d25a2f2d.PNG)
+
 
 **4.** Comparison between different document representations
 
