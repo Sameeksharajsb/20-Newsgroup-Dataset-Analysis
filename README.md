@@ -1,16 +1,16 @@
 # 20 Newsgroup Dataset Analysis
-##Introduction 
+## Introduction 
 
 The 20 Newsgroups data set is a collection of approximately 20,000 newsgroup documents, partitioned evenly across 20 different newsgroups.
 The 20 newsgroups collection has become a popular data set for experiments in text applications of machine learning techniques, such as text classification and text clustering.
 
 For more information, click this link: http://qwone.com/~jason/20Newsgroups/
 
-##Data
+## Data
 
 The data source: http://qwone.com/~jason/20Newsgroups/
 
-##Tools: 
+## Tools
 * BoA, Tf-idf, LDA
   * Gensim; sklearn
   
@@ -27,7 +27,7 @@ The data source: http://qwone.com/~jason/20Newsgroups/
   * sklearn.metrics
 
 
-##Project Flow
+## Project Flow
 
 **1.**  Preprocess the dataset
 
@@ -50,7 +50,7 @@ The data source: http://qwone.com/~jason/20Newsgroups/
 
 * Document clustering
 
-##Important Files:
+## Important Files
 
 <code>FinalProject_codes1.ipynb</code> - Vector Representations
 <code>FinalProject_codes2.ipynb</code> - Topic Modeling
